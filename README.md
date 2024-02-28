@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AlmondGood's%20Repo&reversal=false&textBg=false&fontAlign=50&animation=fadeIn)
 
 # <img src="./github.svg" alt="Github" width="27" height="27"/> Github & Baekjun <img src="./baekjun.png" alt="Baekjun" width="27" height="27"/>
@@ -39,7 +40,7 @@
 
 <br>
 
-# ☎ Contact
+# 📞 Contact
 <a href="mailto:jwt2719@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="mailto:jwt2358@naver.com?"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
 <a href="ig.me/m/jwt2358?"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
