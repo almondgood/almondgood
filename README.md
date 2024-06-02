@@ -5,7 +5,7 @@
 
 # <img src="./github.svg" alt="Github" width="27" height="27"/> Github & Baekjun <img src="./baekjun.png" alt="Baekjun" width="27" height="27"/>
 
-![AlmondGood's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmondGood&show_icons=true&theme=moltack)&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwt2719)](https://solved.ac/jwt2719/)
+![AlmondGood's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmondGood&show_icons=true&theme=moltack)&nbsp;&nbsp;![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwt2719)
 
 
 <br>
