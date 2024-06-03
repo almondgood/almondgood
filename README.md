@@ -13,7 +13,7 @@
 # <img src="./Stack_Overflow_icon.svg" alt="SVG 이미지" width="35" height="35"/> Tech Stack
 
 ## 🙂 Experience with projects
-![java](https://img.shields.io/badge/java-2F2625?style=for-the-badge&logo=coffeescript) ![Python](https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=Python&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus) ![C](https://img.shields.io/badge/C-033963?style=for-the-badge&logo=C) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+![C](https://img.shields.io/badge/C-033963?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus) ![java](https://img.shields.io/badge/java-2F2625?style=for-the-badge&logo=coffeescript) ![Python](https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=Python&logoColor=black) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
 
 <br>
 
